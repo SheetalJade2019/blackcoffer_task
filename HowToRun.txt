@@ -1,0 +1,11 @@
+1) Open app.py file.
+2) Add path for 
+	input file 
+	stopwords folder 
+	master dictionapy
+	output files directory 
+	result file
+
+3) run app.py file : python3 app.py
+
+4) It will create results.csv at given location
